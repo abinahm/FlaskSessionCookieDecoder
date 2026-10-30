@@ -111,7 +111,3 @@ print(datetime.datetime.fromtimestamp(ts, datetime.timezone.utc))
 ## Disclaimer
 
 For educational purposes and for debugging applications you own or are authorized to test.
-
-## License
-
-Released under the [MIT License](LICENSE).
